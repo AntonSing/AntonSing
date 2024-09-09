@@ -3,13 +3,13 @@
 </div>
 <div id="badges" align="center">
   <a href="https://vk.com/id247540945">
-    <img src="https://img.shields.io/badge/VKontakte-blue?logo=VKontakte&logoColor=white&style=for-the-badge" alt="VKontakte Badge"/>
+    <img src="https://img.shields.io/badge/Vkontakte-blue?logo=Vk&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
   </a>
   <a href="https://www.youtube.com/@deriys8959">
     <img src="https://img.shields.io/badge/YouTube-red?logo=YouTube&logoColor=white&style=for-the-badge" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/deriyss/">
-    <img src="https://img.shields.io/badge/Instagram-purple?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-B4068E?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
   </a>
 </div>
 <div id="badges" align="center">
@@ -31,7 +31,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![VKontakte Badge](https://img.shields.io/badge/-Anton-blue?style=flat&logo=VKontakte&logoColor=white)](https://vk.com/id247540945)
+- :mailbox:How to reach me: [![Vkontakte Badge](https://img.shields.io/badge/-Anton-blue?style=flat&logo=Vk&logoColor=white)](https://vk.com/id247540945)
 
 ---
 
